@@ -52,9 +52,9 @@ button{
     
 }
 .child {
-    background-image: url('task/b2.jpg');
+    background-image: url('task/b3.jpg');
     background-size: cover;
-    background-color:rgba(0, 0, 0, 0.261);
+    background-color:rgba(135, 207, 235, 0.267);
     background-blend-mode: overlay;
     width: 95%;
     height: 550px;
